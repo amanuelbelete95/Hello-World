@@ -84,23 +84,15 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
-
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
-
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
-
-In order to run this project you need:
 
 <!--
 Example command:
@@ -112,7 +104,7 @@ Example command:
 
 ### Setup
 
-Clone this repository to your desired folder:
+git Clone https://github.com/amanuelbelete95/Hello-World
 
 <!--
 Example commands:
@@ -125,8 +117,6 @@ Example commands:
 
 ### Install
 
-Install this project with:
-
 <!--
 Example command:
 
@@ -138,8 +128,6 @@ Example command:
 
 ### Usage
 
-To run the project, execute the following command:
-
 <!--
 Example command:
 
@@ -150,8 +138,6 @@ Example command:
 
 ### Run tests
 
-To run tests, run the following command:
-
 <!--
 Example command:
 
@@ -161,8 +147,6 @@ Example command:
 --->
 
 ### Deployment
-
-You can deploy this project using:
 
 <!--
 Example:
@@ -194,9 +178,9 @@ Example:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **[]**
+- [ ] **[]**
+- [ ] **[]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -226,23 +210,13 @@ If you like this project...
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank...
+I would like to thank Yosef Geda for his dedication and useful comments.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FAQ (optional) -->
 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
-
-- **[Question_1]**
-
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
